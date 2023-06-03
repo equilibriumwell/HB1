@@ -83,3 +83,5 @@ let p1 = new Player('Atrus');
 console.log(p1.name)
 console.log(p1.reset())
 console.log(p1.getAllInfo())
+
+console.log('hey heather')
